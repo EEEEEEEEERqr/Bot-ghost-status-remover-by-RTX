@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🗻 Azured Market","🔗 .gg/azured"];
+const statusMessages = ["/MRZONKIES","MRZONKIES?"];
 
 
 let currentIndex = 0;
