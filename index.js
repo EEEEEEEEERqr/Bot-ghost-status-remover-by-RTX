@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/MRZONKIES","MRZONKIES?"];
+const statusMessages = ["🎮 GamerModz™ 🎮","🚀 .gg/gamermods 🚀"];
 
 
 let currentIndex = 0;
